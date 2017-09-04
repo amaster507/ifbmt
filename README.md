@@ -1,5 +1,4 @@
-# ifbmt
-# Welcome to the ifbmt wiki!
+# Welcome to ifbmt!
 
 ### Launching tentatively in January 2018.
 
