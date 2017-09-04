@@ -1,8 +1,14 @@
 # Welcome to ifbmt!
 
+### Independant Fundamental Baptist Missionary Trails
+
+***
+
 ### Launching tentatively in January 2018.
 
 ifbmt stands for Independent Fundamental Baptist Missionary Trails. This project was envisioned by my friends while on deputation throughout the states.
+
+[Purpose](https://github.com/amaster507/ifbmt#purpose) | [Benefits](https://github.com/amaster507/ifbmt#benefits) | [Use Cases](https://github.com/amaster507/ifbmt#vision-of-use) | [Pricing](https://github.com/amaster507/ifbmt#costs) | [How to Help](https://github.com/amaster507/ifbmt#how-you-can-help) | [Support and Development](https://github.com/amaster507/ifbmt#support-and-development) | [MockUps](https://github.com/amaster507/ifbmt#mockups)
 
 ## PURPOSE
 
