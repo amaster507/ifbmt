@@ -44,3 +44,39 @@ This project will require a colaboration of assistence to develop. I have promis
 This project is being developed by Bible believing Fundamental Baptist Church members with current full-time jobs and who are also actively involved in the weekly ministries of their local church. Please be respectful and helpful with input. Development and support will be given as soon as possible.
 
 If you or someone you know would be interested in joining this project then please invite them to join the project in the development stages to help integrate their ideas.
+
+## MOCKUPS
+
+**Dashboard:** In this mock-up, you will find quick and visual information as the overall progress of your missionary trail. Please visit [ISSUE: Dashboard Widgets/Items](https://github.com/amaster507/ifbmt/issues/12) and give your input as to what items should be displayed on the dashboard.
+
+    Screen shots coming soon.
+
+***
+
+**Church Listings:** In this mock-up, you will see the Quick Cal on the left side panel. And on the right side panel, you will find the church listings.
+
+![MockUp Quick Cal and Church Listings](http://amasterdesigns.com/wp-content/uploads/mock-up_quick-cal_and_church-listings.png)
+
+***
+
+**Listings Searching and Filtering:** In the far right menu panel slide out, you will find the options for searching and filtering the list of churches. You can search by church name, pastor name, phone number, website, and email address. You can use the filter options to filter by state, zip code, tags, and ministries. You can also use the advanced filtering to filter within a specified mileage range around a zip code, city and state, or your current location (if your device supports location).
+
+    Screen shots coming soon.
+
+***
+
+**Quick Cal & Church Info:** This mock-up shows a horizontal tablet/desktop view. On the left side, you will find your booking calendar with three separate ways to view the details map, agenda, or routes. And on the right-hand side, you will find the church information.
+
+![MockUp Quick Cal and Church View](http://amasterdesigns.com/wp-content/uploads/mock-up_quick-cal_and_church-view.png)
+
+***
+
+**Adding Notes to churches:** This mock-up shows the form slide out for adding a note. Notice the options include the public switch, date, time, priority, expiration, and note content. There are buttons on the bottom to save or cancel the note. _The image was updated and may be cached incorrectly showing the top tab selected incorrectly as booking. Sorry._
+
+![MockUp Quick Cal, Church View, Adding Note](http://amasterdesigns.com/wp-content/uploads/mock-up_quick-cal_and_church-view_add-notes.png)
+
+***
+
+**Booking A Church:** This mock-up shows the form slide out for booking a meeting. Notice the options include the start date and time, the end date and time, send confirmation switch and meeting notes. There are buttons on the bottom to save or cancel the booking.
+
+![MockUp Quick Cal, Church View, Booking Meeting](http://amasterdesigns.com/wp-content/uploads/mock-up_quick-cal_and_church-view_booking.png)
