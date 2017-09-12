@@ -21,7 +21,7 @@ To help like faith missionaries with an easy and centralized way to manage their
 * **Email** and **call** churches and pastors directly from the app
 * Save response and add notes for follow-up as either private notes or public notes to share with all other users
 * Track support level needed, projected, promised, and received
-* Add personal contacts that can be saved privately and shared with others globally or individually
+* Add personal contacts that can be saved privately and shared with others globally ~~or individually~~
 
 ## VISION OF USE
 
