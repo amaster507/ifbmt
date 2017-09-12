@@ -32,13 +32,15 @@ To help like faith missionaries with an easy and centralized way to manage their
 
 ## COSTS
 
-In order to help develop, maintain and support there will be a sign-up process with a slider for you to _name-your-price_ varying from FREE to $100 and a selection box for one-time, monthly, or yearly. You are then given full access to the application with all functionality.
+As missionaries starting out on deputation may not even have enough money for fuel, some may not be able to afford a large upfront cost, however, there are some that have more financial freedom and start off with a larger financial backing to start deputation so the ends of the spectrum vary greatly. There is a need for a simple low start up cost and a need for those who want to pay a one-time lifetime license.
 
-Thirty days after registration upon log-in and via email you will receive the option to _invest your talents_ and again be presented with the _name-your-price_ plan. You will have the option to remain as a FREE user or start giving back to help maintain the project and support other fundamental Baptist missionaries in the process. This project is to be a help and blessing to those who may need it most, but might not be able to afford it, And also for some who can afford it, to be able to give back to what they think the project is worth. 
+Trial | Monthly | Quarterly | Bi-annual | Annual | Lifetime
+:---:|:---:|:---:|:---:|:---:|:---:
+_60 Day Access_|_1 Month Access_|_3 Months Access_|_6 Months Access_|_12 Month Access_|_Lifetime Access_
+| | |8% Savings|13% Savings|25% Savings|Less than annual cost of monthly plan
+**$7.00**|**$12/mo.**|**$33/quart.**|**$62/bi-ann.**|**$107/yr.**|**$137**
 
-> Compare this application with Salesforce Lightning Enterprise edition which would cost you $150/mo. billed annually.
-
-If this project takes off and really starts to become overwhelming, there may be a need to change this pricing plan at a later date, but all users up to that point will have the option to be grandfathered in at the price plan of their choosing, even if that means free.
+For more information please reference issue [#23](https://github.com/amaster507/ifbmt/issues/23#issuecomment-328729516)
 
 ## HOW YOU CAN HELP!
 
